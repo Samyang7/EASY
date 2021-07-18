@@ -1,3 +1,5 @@
+<img width="1420" alt="Screen Shot 2021-07-18 at 11 42 01" src="https://user-images.githubusercontent.com/58925650/126053132-a5f6e36a-ac9b-4451-a25d-a21496655354.png">
+<img width="1401" alt="Screen Shot 2021-07-18 at 11 41 33" src="https://user-images.githubusercontent.com/58925650/126053135-475a18f2-8174-46e8-82ef-9b559e5adee3.png">
 # EASY
 This is a 2021 CSE Hackthan project. The goal and aim is to build a interactive website that allow student to quickly find the course that would equip them with nesessary and key skill set to reach to their dream title. Done by group of three people. It can be simplied opened by using the web browser. Figma was used to do the prototype design.
 
