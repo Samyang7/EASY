@@ -25,4 +25,5 @@ shown below.
 
 # HOW TO USE
 git clone all the file and simply use your favourites web browser to open .html file. 
+
 compatible web browser: chrome, safari
