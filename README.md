@@ -22,3 +22,7 @@ shown below.
 <img width="1458" alt="Screen Shot 2021-07-18 at 00 53 05" src="https://user-images.githubusercontent.com/58925650/126040929-b83176ce-6f07-424f-b6c4-ee5827588b68.png">
 <img width="1420" alt="Screen Shot 2021-07-18 at 11 42 01" src="https://user-images.githubusercontent.com/58925650/126053132-a5f6e36a-ac9b-4451-a25d-a21496655354.png">
 <img width="1401" alt="Screen Shot 2021-07-18 at 11 41 33" src="https://user-images.githubusercontent.com/58925650/126053135-475a18f2-8174-46e8-82ef-9b559e5adee3.png">
+
+# HOW TO USE
+git clone all the file and simply use your favourites web browser to open it. 
+compatible web browser: chrome, safari
