@@ -24,5 +24,5 @@ shown below.
 <img width="1401" alt="Screen Shot 2021-07-18 at 11 41 33" src="https://user-images.githubusercontent.com/58925650/126053135-475a18f2-8174-46e8-82ef-9b559e5adee3.png">
 
 # HOW TO USE
-git clone all the file and simply use your favourites web browser to open it. 
+git clone all the file and simply use your favourites web browser to open .html file. 
 compatible web browser: chrome, safari
